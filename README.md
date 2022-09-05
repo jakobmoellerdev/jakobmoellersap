@@ -1,25 +1,5 @@
 ### Hi there 👋
 
-<!--   GitHub stats graph -->
----
-
-<table>
-	<tr>
-    		<td>
-			<a href="https://www.linkedin.com/in/jakob-m%C3%B6ller/">
-				<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakobmoellersap&show_icons=true" />
-			</a>
-		</td>
-    	</tr>
-	<tr>
-        	<td>
-			<a href="https://www.linkedin.com/in/jakob-m%C3%B6ller/">
-				<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jakobmoellersap"></img>
-			</a>
-		</td>
-	</tr>
-</table>
-
 
 <!--
 **jakobmoellersap/jakobmoellersap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
