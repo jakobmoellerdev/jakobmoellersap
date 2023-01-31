@@ -1,17 +1,23 @@
-### Hi there 👋
+
+<div align="center">
+<h4 align="center">🔭 I’m currently working on Kubernetes and Distributed Systems</h4>
+</div>
+
+<div align="center">
+<p align="center">
+    <a href="https://github.com/jakobmoellersap/">
+    <img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jakobmoellersap&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jakobmoellersap&theme=tokyonight&hide_border=true" />
+    </a>
+ </p>
+</div>
+
+----
+
+<div align="center">
+
+[![](https://github-profile-trophy.vercel.app/?username=jakobmoellersap&layout=compact&theme=algolia)](https://github.com/jakobmoellersap)
+</div>
 
 
-<!--
-**jakobmoellersap/jakobmoellersap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Credit: [jakobmoellersap](https://github.com/jakobmoellersap)
